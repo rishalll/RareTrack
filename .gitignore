@@ -1,0 +1,28 @@
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# PHP / server files
+vendor/
+node_modules/
+.env
+*.log
+*.sql
+
+# XAMPP / Apache temp files
+tmp/
+*.local
+.htaccess
+
+# Framework & cache
+*.cache
+*.session
+
+# IDE settings
+.idea/
+.vscode/
+
+# Backup files
+*.bak
+*.tmp
